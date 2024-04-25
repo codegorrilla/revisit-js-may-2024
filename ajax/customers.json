@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John Rambo",
+        "company": "123 Cousine",
+        "phone": "444-555-6666"
+    },
+    {
+        "id": 2,
+        "name": "Steve Smith",
+        "company": "123 Designs",
+        "phone": "333-555-7777"
+    },
+    {
+        "id": 1,
+        "name": "Tara Salt",
+        "company": "Zacks.com",
+        "phone": "222-555-8888"
+    }
+]
